@@ -123,6 +123,27 @@ The Excel file should include fields such as:
 Created for educational and research purposes.  
 Free to use, modify, and extend.
 
+---
+
+## 📸 Screenshots
+<img width="1504" height="1054" alt="image" src="https://github.com/user-attachments/assets/afaad0d4-c13e-42eb-a683-59e7240f1203" />
+
+### 🔍 Aircraft Search
+![Aircraft Search](<img width="1343" height="144" alt="image" src="https://github.com/user-attachments/assets/355d56a5-dda2-4571-b5de-91e94099aa3d" />
+)
+
+### 📐 Input Parameters
+![Input Parameters](<img width="1312" height="242" alt="image" src="https://github.com/user-attachments/assets/1e1866bd-6312-4bc8-bcc1-a9a9ea07fe17" />
+)
+
+### 🧮 Takeoff Speed Calculation
+![Takeoff Speed](<img width="1446" height="791" alt="image" src="https://github.com/user-attachments/assets/42503411-73f0-4c65-8fc9-c6dbd175ea9c" />
+)
+
+### 📋 Aircraft Technical Details
+![Aircraft Details](<img width="1068" height="1230" alt="image" src="https://github.com/user-attachments/assets/8c619ed8-db56-43f5-ae52-f8b41113af18" />
+)
+
 ## 📜 License
 
 MIT License — free to use in personal and commercial projects.
