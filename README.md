@@ -141,7 +141,7 @@ Free to use, modify, and extend.
 
 
 ### 📋 Aircraft Technical Details
-(<img width="500" alt="image" src="https://github.com/user-attachments/assets/8c619ed8-db56-43f5-ae52-f8b41113af18" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8c619ed8-db56-43f5-ae52-f8b41113af18" />
 
 
 ## 📜 License
