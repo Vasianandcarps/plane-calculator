@@ -1,5 +1,5 @@
 
-```md
+
 # ✈️ Aircraft Takeoff Speed Calculator
 
 A web application built with **React + TypeScript** that loads aircraft data from an **Excel file**, allows smart aircraft search, and **calculates takeoff speed** based on wing area and angle of attack.
@@ -126,6 +126,4 @@ Free to use, modify, and extend.
 ## 📜 License
 
 MIT License — free to use in personal and commercial projects.
-
-Если нужно — могу сделать версию под **open-source стандарт**, добавить **Live Demo**, **Screenshots**, или **API description**.
 
